@@ -13,35 +13,6 @@
 
 <br>
 
-<p><samp>SELECTED WORK / 주요 작업</samp></p>
-
-### 01 &nbsp; 사내 AI 업무 시스템
-
-사내 정보 조회와 반복 업무를 돕는 봇·대시보드를 구축합니다.<br>
-<sub>LLM integration · Workflow automation · Internal tools</sub>
-
-[프로젝트 소개 ↗](https://dpwld.github.io/#projects)
-
-<img src="assets/divider.svg" width="100%" height="1" alt="">
-
-### 02 &nbsp; SSTR2 AI Scientist
-
-펩타이드 후보 탐색을 위한 생성·필터링·대리 모델·LLM 에이전트 연구 파이프라인입니다.<br>
-<sub>Python · Research pipelines · LLM agents</sub>
-
-[저장소 보기 ↗](https://github.com/dpwld/SSTR2_AI_SCIENTIST_KAERI)
-
-<img src="assets/divider.svg" width="100%" height="1" alt="">
-
-### 03 &nbsp; SwirlX Design
-
-기술 보고서의 차트와 표를 일관된 스타일로 만드는 Claude Code 플러그인입니다.<br>
-<sub>JavaScript · Data visualization · Developer tools</sub>
-
-[저장소 보기 ↗](https://github.com/dpwld/swirlx-design)
-
-<br>
-
 <details>
 <summary><samp>BACKGROUND &amp; TOOLKIT / 경험과 기술</samp></summary>
 
