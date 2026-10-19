@@ -1,11 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="정예지 · Yeji Jeong — AI systems and applied research" width="100%">
-</picture>
+<img src="assets/header.svg" alt="정예지 · Yeji Jeong — 현장의 문제를, 작동하는 AI로." width="100%">
 
 <p>
-  <samp><a href="https://dpwld.github.io/">PORTFOLIO ↗</a>&nbsp;&nbsp; / &nbsp;&nbsp;<a href="https://www.linkedin.com/in/yejijeong1204/">LINKEDIN ↗</a></samp>
+  <a href="https://dpwld.github.io/">Portfolio ↗</a>&nbsp;&nbsp; · &nbsp;&nbsp;<a href="https://www.linkedin.com/in/yejijeong1204/">LinkedIn ↗</a>
 </p>
 
 금융 실무와 AI 연구를 바탕으로 업무 자동화와 LLM 시스템을 만듭니다.<br>
@@ -14,7 +10,7 @@
 <br>
 
 <details>
-<summary><samp>BACKGROUND &amp; TOOLKIT / 경험과 기술</samp></summary>
+<summary>경험과 기술</summary>
 
 <br>
 
