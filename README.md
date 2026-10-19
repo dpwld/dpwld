@@ -7,12 +7,12 @@ Forward Deployed Engineer를 지향하며, 사용자의 요구를 데이터 흐�
 
 ## 주요 작업
 
-| 프로젝트 | 다룬 문제와 접근 | 자료 |
-| --- | --- | --- |
-| 사내 AI 업무 시스템 | 사내 정보 조회와 반복 업무를 돕는 봇·대시보드 구축 | [프로젝트 소개](https://dpwld.github.io/#projects) |
-| job-scout | 여러 사이트의 채용공고를 수집하고 LLM 적합도 평가와 대시보드로 연결 | [프로젝트 소개](https://dpwld.github.io/#projects) |
-| SSTR2 AI Scientist | 펩타이드 후보 탐색을 위한 생성·필터링·대리 모델·LLM 에이전트 연구 파이프라인 | [공개 저장소](https://github.com/dpwld/SSTR2_AI_SCIENTIST_KAERI) |
-| SwirlX Design | 기술 보고서용 차트와 표의 표현 규칙을 재사용할 수 있는 Claude Code 플러그인 | [공개 저장소](https://github.com/dpwld/swirlx-design) |
+| 프로젝트 | 다룬 문제와 접근 |
+| --- | --- |
+| [사내 AI 업무 시스템](https://dpwld.github.io/#projects) | 사내 정보 조회와 반복 업무를 돕는 봇·대시보드 구축 |
+| [job-scout](https://dpwld.github.io/#projects) | 여러 사이트의 채용공고를 수집하고 LLM 적합도 평가와 대시보드로 연결 |
+| [SSTR2 AI Scientist](https://github.com/dpwld/SSTR2_AI_SCIENTIST_KAERI) | 펩타이드 후보 탐색을 위한 생성·필터링·대리 모델·LLM 에이전트 연구 파이프라인 |
+| [SwirlX Design](https://github.com/dpwld/swirlx-design) | 기술 보고서용 차트와 표의 표현 규칙을 재사용할 수 있는 Claude Code 플러그인 |
 
 ## 경험
 
