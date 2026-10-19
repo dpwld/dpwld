@@ -1,27 +1,33 @@
-<img src="assets/header.svg" alt="정예지 · Yeji Jeong — 현장의 문제를, 작동하는 AI로." width="100%">
+<img align="right" src="assets/motion.svg" width="112" height="112" alt="천천히 움직이는 파스텔 꽃">
 
-<p>
-  <a href="https://dpwld.github.io/">Portfolio ↗</a>&nbsp;&nbsp; · &nbsp;&nbsp;<a href="https://www.linkedin.com/in/yejijeong1204/">LinkedIn ↗</a>
-</p>
+### 정예지 <sub>Yeji Jeong</sub>
 
-금융 실무와 AI 연구를 바탕으로 업무 자동화와 LLM 시스템을 만듭니다.<br>
+금융 실무와 AI 연구를 바탕으로<br>
+업무 자동화와 LLM 시스템을 만듭니다.
+
+**[Portfolio ↗](https://dpwld.github.io/)** &nbsp; · &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/yejijeong1204/)**
+
+#### 경험
+
+- **금융 실무** · 삼성증권 고객 응대 · 운용 지원 · 정산 · 예산
+- **AI 연구** · 감성분석 프롬프트 실험 · 모델 도입 검토 · 연구 파이프라인
+- **업무 자동화** · 스타트업의 AI 도구와 웹 서비스 구축 · 운영
+
 사용자의 요구를 데이터 흐름과 기능으로 구체화하는 **Forward Deployed Engineering**을 지향합니다.
 
-<br>
+#### 사용하는 도구
 
-<details>
-<summary>경험과 기술</summary>
+<p>
+  <img src="assets/tools/python.svg" alt="Python" title="Python" width="44" height="44">
+  <img src="assets/tools/typescript.svg" alt="TypeScript" title="TypeScript" width="44" height="44">
+  <img src="assets/tools/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44">
+  <img src="assets/tools/r.svg" alt="R" title="R" width="44" height="44">
+  <img src="assets/tools/react.svg" alt="React" title="React" width="44" height="44">
+  <img src="assets/tools/nextjs.svg" alt="Next.js" title="Next.js" width="44" height="44">
+  <img src="assets/tools/nodejs.svg" alt="Node.js" title="Node.js" width="44" height="44">
+  <img src="assets/tools/supabase.svg" alt="Supabase" title="Supabase" width="44" height="44">
+</p>
 
-<br>
-
-**금융 실무** — 삼성증권에서 고객 응대, 운용 지원, 정산과 예산 업무를 경험했습니다.<br>
-**업무 자동화** — 스타트업의 업무 맥락을 바탕으로 AI 도구와 웹 서비스를 만들고 운영합니다.<br>
-**AI 연구** — 감성분석 프롬프트 실험, 모델 도입 검토, 연구 파이프라인 구축에 참여했습니다.
-
-<br>
-
-**Languages** &nbsp; Python · JavaScript · TypeScript · R<br>
-**Applications** &nbsp; React · Next.js · Node.js · Supabase · SQLite<br>
-**AI &amp; Data** &nbsp; LLM API · 프롬프트 평가 · 에이전트 워크플로우 · 데이터 시각화
-
-</details>
+**코드** &nbsp; Python · TypeScript · JavaScript · R<br>
+**서비스** &nbsp; React · Next.js · Node.js · Supabase · SQLite<br>
+**AI & 데이터** &nbsp; LLM API · 프롬프트 평가 · 에이전트 워크플로우 · 데이터 시각화

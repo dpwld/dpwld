@@ -1,10 +1,7 @@
 # Profile artwork
 
-The SVG header is an original graphic for this profile: a warm ivory canvas with coral, lilac and sage petals that rotate slowly. The same bright artwork appears in both GitHub themes. The name and introduction stay still, and `prefers-reduced-motion: reduce` stops all animation.
+All profile text uses GitHub's native typography. No custom font is embedded in the artwork.
 
-Typography:
+`motion.svg` reuses this profile's original coral, lilac and sage petals as a small animated accent. The flower turns slowly and stops for `prefers-reduced-motion: reduce`. It contains no scripts, fonts or external requests.
 
-- **Geist Sans SemiBold** for the name — [Vercel / Geist](https://vercel.com/font), [source and SIL Open Font License](https://github.com/vercel/geist-font).
-- **Pretendard Medium** for the Korean line — [Pretendard](https://github.com/orioncactus/pretendard), SIL Open Font License.
-
-The visible letters are vector outlines, so visitors do not need the fonts installed. The SVG contains no scripts, embedded pages, external fonts, or remote image requests. Accessible names are supplied through SVG titles and the README image's alt text. The rest of the README remains native text.
+Tool logos are from [Devicon](https://github.com/devicons/devicon), commit `6a37858047b0e8d9c9c0e68f4a071fc410652e89`, under the MIT license included in `tools/LICENSE`. The original SVG marks are unmodified apart from display size and position inside neutral background tiles. Product marks identify tools only and do not imply endorsement.
