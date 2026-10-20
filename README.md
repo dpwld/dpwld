@@ -1,4 +1,4 @@
-<img align="right" src="assets/motion.svg" width="112" height="112" alt="천천히 움직이는 파스텔 꽃">
+<img align="right" src="assets/developer-marmot.png" width="128" height="128" alt="노트북으로 코딩하는 개발자 마멋">
 
 ### 정예지 <sub>Yeji Jeong</sub>
 
